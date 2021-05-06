@@ -576,7 +576,9 @@ textarea {
         margin: 0 auto;
     }
     
-
+.main__header{
+    padding: 1rem 0;
+}
     .nav__right {
         width: 70%;
         display: flex;
